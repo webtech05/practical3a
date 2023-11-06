@@ -1,0 +1,29 @@
+	1. Prerequisites:- 
+		a. VS Code 
+		b. Git
+		c. Github Account
+	2. Create the folder and Open from VS Code
+	3. Open terminal and run
+		mkdir directory_name
+		cd directory_name
+	4. Git --version to check is git installed or not ?
+	5. Create one repository on github website
+	6. Come back to terminal 
+		a. Create new file in VSCode for ex:- file.txt
+		b.  git init 
+		c. git add file_name_u_want_to_add
+		d. git status 
+	7. Go to github website:- Click on HTTPS copy the link 
+	8. Come back to terminal :-
+		a. git remote add origin "paste_copied_link_here"
+		b. git commit -m "firstcommit"
+		See one file changed
+		c. git status
+		d. git push -u origin master  --- to push the code to repository
+	9. After this refresh the website and you will see the new file created
+
+
+
+
+
+
